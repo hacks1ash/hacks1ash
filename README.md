@@ -1,7 +1,7 @@
 ### Hi there 👋
 - My name is Mikheil Maisuradze, I am located in Florida, Originally from Republic of Georgia
 - I'm a Software Engineer (CTO)
-- 🔭 I’m currently working on a Crypto Currency Wallet, Smart Contracts, Medical Project Related to Medicly Comlex Children
+- 🔭 I’m currently working on a Crypto Currency Wallet, NFT-s and Smart Contracts
 - 🌱 I’m fluent in Java, Kotlin, Python, Bash, Groovy, Typescript, Solidity
 - 📫 How to reach me: me@hacks1ash.com
 ---
