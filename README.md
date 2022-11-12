@@ -1,5 +1,8 @@
 ### Hi there 👋
-- My name is Mikheil Maisuradze, I am located in Florida, Originally from Republic of Georgia
+- My name is Mikheil Maisuradze, I am located in Cambridge, MA, Originally from Republic of Georgia
+- 12 Years experience in software engineering
+- 7 Years experience in blockchain, smart conrtract engineering
+- Certified Professional Solutions Architect (AWS)
 - I'm a Software Engineer (CTO)
 - 🔭 I’m currently working on a Crypto Currency Wallet, NFT-s and Smart Contracts
 - 🌱 I’m fluent in Java, Kotlin, Python, Bash, Groovy, Typescript, Solidity
