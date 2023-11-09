@@ -37,6 +37,7 @@
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hacks1ash&repo=cryptocurrency-wallet&theme=dark)](https://github.com/hacks1ash/cryptocurrency-wallet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hacks1ash&repo=keycloak-spring-boot-adapter&theme=dark)](https://github.com/hacks1ash/keycloak-spring-boot-adapter)
 
 
 ---
